@@ -1,7 +1,12 @@
 This project has two parts - Analysis of existing ASR which is contained in the ASR_analysis.ipynb and secondly, python files long with vui_notebook.ipynb which contains code of my custom ASR.
 
-Dataset for Analysis part is contained in the Datasets folder which contains American English speech files and other accents in .zip files.
+Dataset for Analysis part is contained in the Datasets folder which contains predicted text for different accents (Scotland, Wales, Nigeriain) in .zip file.
+To download American Accent speech use the link <https://www.openslr.org/45/> to download the zippd file
 
+
+ *******************************************************************************************************
+ Follow these steps below for custom ASR
+ *******************************************************************************************************
 -Obtain the libav package.
 
 Linux: sudo apt-get install libav-tools
